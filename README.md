@@ -1,2 +1,2 @@
 # GolfApp
-Golf app for Idas
+Golf app for Idas B.V.
